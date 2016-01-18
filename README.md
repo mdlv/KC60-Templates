@@ -3,6 +3,21 @@ Various configuration files for the KC60 programmable keyboard.
 
 The KC60 is great entry point for a low-cost programmable keyboard. While a little rough around the edges, it gives you full control over how the keyboard behaves. On the downside, programming functions can be a bit challenging if you can't read Chinese or have little or no experience with keyboard programming. These templates serve to help ease the process and help clear up some of the issues commonly encountered when working with this keyboard.
 
+Included:
+<ul>
+<li>KC60 Basic: this is my current setup</li>
+</ul>
+
+To do:
+<ul>
+<li>Poker II default</li>
+<li>Pok3r default</li>
+<li>HHKB default</li>
+<li>Provide links to configurator</li>
+</ul>
+
+<hr>
+
 About the keyboard:
 Manufactured by NPKC
 60% standard layout
@@ -52,4 +67,3 @@ TIPS:
 -  There are numerous mentions of the "did you forget to press reset" message when reflashing. They key is to hold it down for a good long while. I would say between 1 and 2 minutes. I didn't get any feedback from the installer until I let go of the reset button. I should also mention that at some point in my many attempts, they keyboard stopped working completely. DO NOT WORRY, just install the drivers and reflash and it should come back.
 When relashing, be sure to install the drivers included with the toolkit. 
 
-When reflashing the 
