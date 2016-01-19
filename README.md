@@ -61,6 +61,9 @@ https://github.com/tmk/tmk_keyboard/blob/master/tmk_core/doc/keymap.md
 Here is a blog post over at Keychatter summing up the process, with some discussion in the comments that might be helpful.
 https://www.keychatter.com/2015/07/05/programming-the-kc60/
 
+Another link with some helpful notes:
+https://gist.github.com/Leimi/4bf07c0822ba8b2cfaad
+
 TIPS:
 -  Install the drivers included with the toolkit
 -  If you're using an aftermarket case, if there is not cutout for dip switches you won't be able to access the reset button. In which case you're want to remove the board from the case before relashing.
